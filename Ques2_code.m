@@ -14,4 +14,4 @@ road_signal(road_signal < 0) = 0;
 
 t=t';
 road_signal = road_signal';
-sim("Ques2_system.xls")
+sim("Ques2_system.slx")
